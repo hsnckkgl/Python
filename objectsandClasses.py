@@ -153,19 +153,3 @@ class Circle(object):
 
 myCirc = Circle(8)
 print(myCirc.calc_area())
-
-        
-        
-
-
-
-
-
-
-
-
-
-
-
-
-

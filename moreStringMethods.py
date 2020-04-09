@@ -26,7 +26,7 @@ the devotion and courage shown by Murray, my orderly, who threw me across a
 packhorse, and succeeded in bringing me safely to the British lines.
 '''
 newPassage = sherlock.split()
-# print(newPassage)
+print(newPassage)
 
 for i in range(len(newPassage)):
     newPassage[i] = newPassage[i].strip('.')    # strip() method removes all char in paranthesis

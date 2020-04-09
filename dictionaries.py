@@ -12,7 +12,7 @@ print(math.cos(0))
 
 import random # Or
 import random as r
-# print(random.randint(1, 100))
+print(random.randint(1, 100))
 for i in range(100):
     print(random.randint(1,100),end=' ')
 
@@ -218,47 +218,3 @@ for i in suit:
     deck[i] = rank
     
 print(deck)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-

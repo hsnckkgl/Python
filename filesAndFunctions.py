@@ -111,37 +111,3 @@ print(t1.timeit(5))
 
 t2 = timeit.Timer("fib2(36)","from greetings import fib2") # We import fib2() from greetings.py !!!
 print(t2.timeit(5))
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

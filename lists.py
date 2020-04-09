@@ -5,7 +5,6 @@ Created on Mon Mar 30 02:52:08 2020
 @author: hsn
 """
 
-
 #Lists
 
 list = [12,14,15,36,87,52,46,95,21,45,63]
@@ -80,21 +79,3 @@ myList = [[1,2,3],[4,5,6],[7,8,9]]  # More than 1 dimension
 print(myList[0])
 print(myList[1][1])     # To access 5
 print(myList[2][0])     # To access 7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

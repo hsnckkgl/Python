@@ -150,18 +150,3 @@ for i in range(n):
         odds.append(i)
 print(f'The odds are: {odds}')
 print(f'The evens are: {evens}')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
